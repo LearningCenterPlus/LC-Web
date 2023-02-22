@@ -201,6 +201,16 @@ body {
   display: none !important;
 }
 
+.founderImg {
+  width: 453px;
+  height: 463px;
+}
+
+.visionImg {
+  width: 631px;
+  height: 397px;
+}
+
 /* Improve Responsive Ness */
 
 @media screen and (min-width: 1281px) {
